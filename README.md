@@ -17,3 +17,4 @@ The repository is organized into the following directories:
 - **Java**
 - **Spring Boot**
 - **JPA (Java Persistence API)**
+![Class Diagram](./Mapping.png)
